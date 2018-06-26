@@ -27,7 +27,7 @@
 
 export default {
 
-    name: 'editable',
+    name: 'single-field-dialogue',
 
     mounted(){
         this.data = this.value;

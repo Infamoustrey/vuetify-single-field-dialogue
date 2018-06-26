@@ -312,7 +312,7 @@ process.umask = function () {
 
 /* harmony default export */ __webpack_exports__["a"] = ({
 
-    name: 'editable',
+    name: 'single-field-dialogue',
 
     mounted() {
         this.data = this.value;

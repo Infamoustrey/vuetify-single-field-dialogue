@@ -2,7 +2,7 @@
     "name": "single-field-dialogue",
     "version": "1.0.2",
     "description": "A single field editable with a pop-up dialogue for vuetify",
-    "main": "./single-field-dialogue.vue",
+    "main": "./dist/single-field-dialogue.js",
     "scripts": {
         "dev": "webpack --progress --config webpack.config.js",
         "build": "webpack --config webpack.config.js"

@@ -1,6 +1,6 @@
 {
     "name": "single-field-dialogue",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A single field editable with a pop-up dialogue for vuetify",
     "main": "./dist/single-field-dialogue.js",
     "scripts": {
